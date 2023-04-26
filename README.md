@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @mwmatos
-- 🌱 I’m currently learning Python
+# Olá, eu sou o Marcelo!
 
-<!---
-mwmatos/mwmatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre mim
+
+Sou brasileiro, Técnico em Informática e bacharel em Ciências Econômicas. Atualmente estou cursando Ciência de Dados e aprendendo a programar em Python.
+
+## Formação Acadêmica
+
+- Técnico em Informática
+- Bacharel em Ciências Econômicas
+- Cursando Ciência de Dados
+
+---
+
+# Hi there, I'm Marcelo!
+
+## About me
+
+I'm a Brazilian IT Technician with a Bachelor's degree in Economics. Currently, I'm studying Data Science and learning Python.
+
+## Education
+
+- IT Technician
+- Bachelor's degree in Economics
+- Currently studying Data Science
